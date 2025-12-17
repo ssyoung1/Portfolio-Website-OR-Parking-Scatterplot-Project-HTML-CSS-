@@ -1,69 +1,36 @@
-# Portfolio-Website-OR-Parking-Scatterplot-Project-HTML-CSS-
-portfolio-website/
-│
-├── css/
-│   └── styles.css
-│
-├── images/
-│   └── site_preview.png
-│
-├── index.html
-├── about.html
-├── projects.html
-└── README.md
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-  <h1>Welcome to My Portfolio</h1>
-  <p>This site showcases my academic and technical projects.</p>
-</body>
-</html>
-body {
-  font-family: Arial, sans-serif;
-  margin: 40px;
-}
 # 🌐 Personal Portfolio Website
 
 ## Project Description
-This project is a personal portfolio website created to showcase my academic work, projects, and technical skills. The site is designed to be clean, professional, and easy to navigate.
+This repository contains a simple portfolio website built with HTML and CSS. The goal is to showcase academic and technical projects in a clean, professional layout.
 
 ---
 
 ## Technologies Used
 - HTML5
 - CSS3
-- Bootstrap
-- Google Analytics
+- (Optional) Bootstrap
+- (Optional) Google Analytics
 
 ---
 
-## Project Structure
-- `index.html` is the homepage
-- `css/` contains styling files
-- `images/` contains site visuals
+## How to View the Site
+### Option 1: Live site
+👉 Replace this link with your custom domain: **https://yourcustomdomain.com**
+
+### Option 2: Run locally
+1. Download or clone the repository
+2. Open `index.html` in your browser
 
 ---
 
-## How to View the Website
-Visit the live site here:  
-👉 https://yourcustomdomain.com
-
-Or run locally:
-1. Download the project files
-2. Open `index.html` in a web browser
+## Pages Included
+- `index.html` (Home)
+- `about.html` (About)
+- `projects.html` (Projects)
 
 ---
 
-## Features
-- Responsive layout
-- Google Analytics tracking
-- Project showcase pages
+## Preview
+![Site Preview](images/site_preview.png)
 
-🖼️ Site Preview:
-
-![Portfolio Preview](images/site_preview.png)
+✨ Tip: Pin this repo on your GitHub profile for Sprint 3.
